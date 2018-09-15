@@ -1,0 +1,32 @@
+[0911/220426:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0911/220426:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220426:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+[0911/220427:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6914048
+[0911/220428:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220436:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6914048
+[0911/220437:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220441:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6914048
+[0911/220445:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220450:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220458:INFO:CONSOLE(448)] "Uncaught ReferenceError: ToolsFunc is not defined", source: http://lol.qq.com/info-go.shtml?id=243694&e_code=tgp.bPromo.r0 (448)
+[0911/220507:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220534:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6914048
+[0911/220534:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0911/220534:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220535:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+[0911/220535:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6914048
+[0911/220535:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220536:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220536:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220537:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220539:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220540:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220541:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220542:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220544:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220605:INFO:CONSOLE(448)] "Uncaught ReferenceError: ToolsFunc is not defined", source: http://lol.qq.com/info-go.shtml?id=243694&e_code=tgp.bPromo.r0 (448)
+[0911/220638:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220711:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0911/220753:WARNING:raw_channel_win.cc(473)] WriteFile: 管道正在被关闭。 (0xE8)
+[0911/220753:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 1, remote ID 1)
+[0911/220753:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2, remote ID 2147483648)
